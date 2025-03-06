@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/photo.jpeg" alt="Gomathi Venkadesh - Full Stack Developer" width="800">
-</p>
 
 <h1 align="center">🚀 Gomathi Venkadesh | Full Stack Python Developer | Customer Service Expert</h1>
 
